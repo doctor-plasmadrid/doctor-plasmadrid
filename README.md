@@ -9,7 +9,7 @@ Software engineer and indie game developer. My work focuses on **systems archite
 ### 🔬 Project Lab
 
 * **Shuffle Lab** — Strategy card game focused on emergent synergies, complex state management, and systemic design.
-* **El Profesor Encriptado** — Web-based logic puzzle and deduction game built around riddles and accessible cryptography.
+* **The Encrypted Professor** — Web-based logic puzzle and deduction game built around riddles and accessible cryptography.
 * **Prototypes & Game Systems** — Card game mechanics implementations, data-oriented architectures, and reverse engineering / decompilation research on classic engines.
 
 ---

@@ -65,6 +65,15 @@ Desarrollador de software y creador de videojuegos independiente. Mi trabajo se 
 - 🧪 **Herramientas de diseño:** Creando utilidades web en React/TypeScript para prototipar mecánicas antes de llevarlas a motor.
 
 ---
+        
+# 📊 GitHub Stats
+
+---
+<div align="center">
+
+![Stats](https://github-stats-extended.vercel.app/api?username=doctor-plasmadrid&theme=radical)
+
+</div>
 
 # 🌐 Social Media
 

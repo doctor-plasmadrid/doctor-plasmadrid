@@ -21,7 +21,7 @@ Software engineer and indie game developer. My work focuses on **systems archite
 | **Core Languages** | `C` · `C++` · `Java` · `TypeScript` · `JavaScript` |
 | **Game Development** | Godot Engine (C++ / GDScript), gameplay architecture & balancing |
 | **Frontend & Web** | React, Node.js, Web Canvas / Interactive APIs |
-| **Environment & Tooling** | Linux (Arch), Git, Make/CMake, Vite |
+| **Environment & Tooling** | Linux (Arch), Git, Make/CMake, Vite, Docker |
 
 ---
 
